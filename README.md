@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Scott Eremia-Roden
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -17,23 +17,25 @@ The following **optional** features are implemented:
 * [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- [x] send a text message of the split to each friend
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/XNWLQXr.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+    How to model the data and how to best keep it as single responsibility of each object. Trying to learn new concepts and navigating Xcode. Images and layout are not my strongest area so learning how to group buttons that make sense and using autolayout.
 
 ## License
 

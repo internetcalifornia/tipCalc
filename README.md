@@ -28,14 +28,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/XNWLQXr.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/VdWmL1d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-    How to model the data and how to best keep it as single responsibility of each object. Trying to learn new concepts and navigating Xcode. Images and layout are not my strongest area so learning how to group buttons that make sense and using autolayout.
+Some difficulties that I faced in during building this app:
+    - How to model the data
+    - How to best keep it as single responsibility of each object
+    - Trying to learn new concepts and navigating Xcode
+    - Images and layout are not my strongest area of experience so learning how to group buttons that make sense and using autolayout.
 
 ## License
 
